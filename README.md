@@ -1,2 +1,3 @@
 # Road-Accident-Analysis-Dashboard
-I developed a comprehensive Road Accident Analysis dashboard using Power BI, featuring multiple interactive dashboards, tables, and visualizations. The project involved end-to-end data processing, including data preprocessing, data cleaning, modeling, and advanced data visualization to derive meaningful insights.
+## Project Objective
+The objective of the Road Accident Analysis Dashboard for the years 2021 and 2022 is to provide a detailed visual analysis of road accident data for these years, identifying patterns. Through Power BI's advanced data visualization techniques, the dashboard aims to highlight critical insights into accident hotspots, time-based trends, and the impact of weather, traffic, and other variables.
