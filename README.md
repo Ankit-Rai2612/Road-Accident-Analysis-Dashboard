@@ -14,7 +14,7 @@ The objective of the Road Accident Analysis Dashboard for the years 2021 and 202
 - Current year Casualties by Area/Location & by Day/Night.
 - Total Casualties and Total Accidents by Location.
 
-- Dashboard Interaction <a href=" ">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Ankit-Rai2612/Road-Accident-Analysis-Dashboard/blob/main/Screenshot%20Dashboard.png">View Dashboard</a>
 
 ## Process/Functionalitites
 
