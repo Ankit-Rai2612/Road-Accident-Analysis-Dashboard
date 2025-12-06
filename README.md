@@ -13,3 +13,29 @@ The objective of the Road Accident Analysis Dashboard for the years 2021 and 202
 - Casualties by Road Type for Current Year.
 - Current year Casualties by Area/Location & by Day/Night.
 - Total Casualties and Total Accidents by Location.
+
+- Dashboard Interaction <a href=" ">View Dashboard</a>
+
+## Process/Functionalitites
+
+- Data Cleaning
+- Data Processing
+- Time Intelligence Function/Calendar Date Table in PowerBI
+- Data Modelling
+- YTD and YoY Growth Calculations using DAX
+- KPI and Advanced KPI Generations
+- Creating custom columns and measures in the reports
+- Importing Images and Creating different charts and generating insights
+- Exporting the Report to users
+
+## Stakeholders
+- Ministry of transport
+- Road Transport Department
+- Police Force
+- Transport Operators
+- Traffic Management Agencies
+- Public
+- Media
+
+## Dashboard
+<img width="939" height="525" alt="Screenshot Dashboard" src="https://github.com/user-attachments/assets/498e6fd6-5e57-4ded-8a5b-89bf1833e495" />
